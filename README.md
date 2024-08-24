@@ -1,2 +1,2 @@
 # dontsaynetwork.github.io
-Personal braindump
+Personal methodoloy braindump
